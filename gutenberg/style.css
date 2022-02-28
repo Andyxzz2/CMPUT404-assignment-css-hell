@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto+Serif&family=Trocchi&display=swap');
+
+
+body {
+    background-color: #f8f5de;
+    background-image: linear-gradient(to right, rgba(255,210,0,0.4), rgba(200, 160, 0, 0.1) 11%, rgba(0,0,0,0) 35%, rgba(200, 160, 0, 0.1) 65%);
+    box-shadow: inset 0 0 75px rgba(255,210,0,0.3), inset 0 0 20px rgba(255,210,0,0.4), inset 0 0 30px rgba(236, 132, 5, 0.8);
+    color: rgba(0,0,0,0.5);
+    
+    
+    padding: 5em 10em 15em 5em;
+    text-align: center;
+  }
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Fredoka', sans-serif;
+    line-height: 3.0;
+}
+
+h1 {
+    font-family: 'Trocchi', serif;
+}
+
+p {
+    font-family: 'Roboto Serif', sans-serif;
+    margin-left: 20;
+    margin-right: 20;
+    letter-spacing: normal;
+    line-height: 1.5;
+
+  }
+
+img {
+    border-radius: 100%;
+    filter: grayscale(100%);
+}
+  
